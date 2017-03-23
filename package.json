@@ -1,8 +1,12 @@
 {
-  "name": "GMD",
+  "name": "gmd-markdown-parser",
   "version": "0.0.1",
   "description": "A MarkDown parser,still in alphe,not recommended for use in production environments",
-  "main": "index.js",
+  "main": "./index.js",
   "author": "Geeku",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gongpeione/GMD"
+  }
 }
