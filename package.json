@@ -1,7 +1,7 @@
 {
   "name": "gmd-markdown-parser",
   "version": "0.0.1",
-  "description": "A MarkDown parser,still in alphe,not recommended for use in production environments",
+  "description": "A MarkDown parser",
   "main": "./index.js",
   "author": "Geeku",
   "license": "MIT",
