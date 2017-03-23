@@ -3,8 +3,9 @@
   "version": "0.0.2",
   "description": "A MarkDown parser",
   "main": "./index.js",
-  "author": "Geeku",
+  "author": "Geeku <ggongpei@gmail.com> (https://geeku.net/)",
   "license": "MIT",
+  "keywords": "markdown, parser",
   "repository": {
     "type": "git",
     "url": "https://github.com/gongpeione/GMD"
